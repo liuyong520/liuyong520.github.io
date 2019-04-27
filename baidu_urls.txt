@@ -1,3 +1,3 @@
-http://www.liuyong520.cn/2019/04/27/firstBlog/
-http://www.liuyong520.cn/2019/04/23/my-first-blog/
 http://www.liuyong520.cn/2017/08/27/creatblog/
+http://www.liuyong520.cn/2017/08/27/hexo-install/
+http://www.liuyong520.cn/2017/08/26/nodejs-install/
