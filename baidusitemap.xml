@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.liuyong520.cn/2017/08/27/hexo-install/</loc>
+    <loc>http://www.liuyong520.cn/2017/08/27/creatblog/</loc>
     <lastmod>2019-04-27</lastmod>
   </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/04/27/creatblog/</loc>
+    <loc>http://www.liuyong520.cn/2017/08/27/hexo-install/</loc>
     <lastmod>2019-04-27</lastmod>
   </url>  <url>
     <loc>http://www.liuyong520.cn/2017/08/26/nodejs-install/</loc>
