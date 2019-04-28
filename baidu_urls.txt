@@ -1,3 +1,3 @@
 http://www.liuyong520.cn/2017/08/29/hexo-promise/
-http://www.liuyong520.cn/2017/08/27/creatblog/
 http://www.liuyong520.cn/2017/08/27/hexo-install/
+http://www.liuyong520.cn/2017/08/27/creatblog/
