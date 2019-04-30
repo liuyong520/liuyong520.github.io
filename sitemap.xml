@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.liuyong520.cn/2019/04/29/kafka-install/</loc>
+    
+    <lastmod>2019-04-30T02:48:31.425Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.liuyong520.cn/2019/04/29/zookeeper-install/</loc>
     
-    <lastmod>2019-04-29T10:03:27.915Z</lastmod>
+    <lastmod>2019-04-29T10:04:56.654Z</lastmod>
     
   </url>
   
