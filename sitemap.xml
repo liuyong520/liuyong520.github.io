@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.liuyong520.cn/about/index.html</loc>
+    
+    <lastmod>2019-05-12T04:14:00.813Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.liuyong520.cn/2019/05/10/storm-groupping/</loc>
     
     <lastmod>2019-05-11T14:37:35.583Z</lastmod>
@@ -131,13 +138,6 @@
     <loc>http://www.liuyong520.cn/repository/index.html</loc>
     
     <lastmod>2019-04-26T11:51:41.915Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.liuyong520.cn/about/index.html</loc>
-    
-    <lastmod>2019-04-26T10:36:36.781Z</lastmod>
     
   </url>
   
