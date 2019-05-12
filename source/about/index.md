@@ -5,7 +5,7 @@ layout: about
 comments: false
 sidebar: custom
 ---
-欢迎访问我的博客，我会不定期更新！
+欢迎访问我的新博客，会陆续把之前的cnblog上的博客迁移过来，也会不定期更新！
 ```	java 
 
 /**
