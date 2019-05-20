@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.liuyong520.cn/2019/05/20/spring/</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/jl/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/kafka-API/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/test/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/11/storm-groupping/</loc>
+    <lastmod>2019-05-14</lastmod>
+  </url>  <url>
     <loc>http://www.liuyong520.cn/2018/02/12/docker/</loc>
     <lastmod>2019-05-14</lastmod>
   </url>  <url>
@@ -10,9 +28,6 @@
     <loc>http://www.liuyong520.cn/2019/05/12/duboo-rpc/</loc>
     <lastmod>2019-05-12</lastmod>
   </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/10/storm-groupping/</loc>
-    <lastmod>2019-05-11</lastmod>
-  </url>  <url>
     <loc>http://www.liuyong520.cn/2019/05/10/storm-parallelism/</loc>
     <lastmod>2019-05-11</lastmod>
   </url>  <url>
@@ -21,9 +36,6 @@
   </url>  <url>
     <loc>http://www.liuyong520.cn/2019/05/02/storm-install/</loc>
     <lastmod>2019-05-08</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
-    <lastmod>2019-05-03</lastmod>
   </url>  <url>
     <loc>http://www.liuyong520.cn/2019/04/29/kafka-intruduce/</loc>
     <lastmod>2019-05-02</lastmod>

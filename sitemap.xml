@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.liuyong520.cn/2019/05/20/spring/</loc>
+    
+    <lastmod>2019-05-20T13:05:07.346Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/jl/</loc>
+    
+    <lastmod>2019-05-14T15:52:54.727Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/kafka-API/</loc>
+    
+    <lastmod>2019-05-14T14:19:10.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
+    
+    <lastmod>2019-05-14T14:07:52.493Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.liuyong520.cn/2019/05/14/test/</loc>
+    
+    <lastmod>2019-05-14T13:57:57.439Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.liuyong520.cn/2019/05/11/storm-groupping/</loc>
+    
+    <lastmod>2019-05-14T13:52:19.803Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.liuyong520.cn/2018/02/12/docker/</loc>
     
     <lastmod>2019-05-14T08:23:56.492Z</lastmod>
@@ -30,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://www.liuyong520.cn/2019/05/10/storm-groupping/</loc>
-    
-    <lastmod>2019-05-11T14:37:35.583Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.liuyong520.cn/2019/05/10/storm-parallelism/</loc>
     
     <lastmod>2019-05-11T00:36:38.975Z</lastmod>
@@ -54,13 +89,6 @@
     <loc>http://www.liuyong520.cn/2019/05/02/storm-install/</loc>
     
     <lastmod>2019-05-08T09:39:18.278Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
-    
-    <lastmod>2019-05-03T13:16:45.720Z</lastmod>
     
   </url>
   
