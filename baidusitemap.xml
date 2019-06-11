@@ -1,67 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.liuyong520.cn/2018/05/04/distributed-base-redundant-data/</loc>
-    <lastmod>2019-06-03</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2018/04/05/distributed-base-transaction/</loc>
-    <lastmod>2019-06-03</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2018/04/02/distributed-base/</loc>
-    <lastmod>2019-06-03</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2018/03/02/distributed/</loc>
-    <lastmod>2019-06-02</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2017/05/20/spring/</loc>
-    <lastmod>2019-06-01</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
-    <lastmod>2019-05-14</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/11/storm-groupping/</loc>
-    <lastmod>2019-05-14</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2018/02/12/docker/</loc>
-    <lastmod>2019-05-14</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/12/storm-grouping2/</loc>
-    <lastmod>2019-05-14</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/12/duboo-rpc/</loc>
-    <lastmod>2019-05-12</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/10/storm-parallelism/</loc>
-    <lastmod>2019-05-11</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/02/storm-base/</loc>
-    <lastmod>2019-05-09</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/05/02/storm-install/</loc>
-    <lastmod>2019-05-08</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/04/29/kafka-intruduce/</loc>
-    <lastmod>2019-05-02</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/04/29/kafka-install/</loc>
-    <lastmod>2019-04-30</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2019/04/29/zookeeper-install/</loc>
-    <lastmod>2019-04-29</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2017/03/29/xsync/</loc>
-    <lastmod>2019-04-28</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2017/08/29/hexo-promise/</loc>
-    <lastmod>2019-04-28</lastmod>
-  </url>  <url>
-    <loc>http://www.liuyong520.cn/2017/08/27/creatblog/</loc>
-    <lastmod>2019-04-27</lastmod>
+    <loc>http://www.liuyong520.cn/2019/06/11/mysql-master-slaver/</loc>
+    <lastmod>2019-06-11</lastmod>
   </url>  <url>
     <loc>http://www.liuyong520.cn/2017/08/27/hexo-install/</loc>
-    <lastmod>2019-04-27</lastmod>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/04/02/distributed-base/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/04/29/kafka-intruduce/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/04/29/kafka-install/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2017/08/29/hexo-promise/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/04/29/zookeeper-install/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/02/12/docker/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/06/07/jvm/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/12/duboo-rpc/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/03/02/distributed/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2017/05/20/spring/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/06/11/mysql-master-master/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/05/04/distributed-base-redundant-data/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/11/storm-groupping/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2017/03/29/xsync/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2017/08/27/creatblog/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/02/kafka-API/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/12/storm-grouping2/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/02/storm-base/</loc>
+    <lastmod>2019-06-11</lastmod>
   </url>  <url>
     <loc>http://www.liuyong520.cn/2017/08/26/nodejs-install/</loc>
-    <lastmod>2019-04-27</lastmod>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/10/storm-parallelism/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/04/05/distributed-base-transaction/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2018/06/09/mysql-install/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>  <url>
+    <loc>http://www.liuyong520.cn/2019/05/02/storm-install/</loc>
+    <lastmod>2019-06-11</lastmod>
   </url>
 </urlset>
