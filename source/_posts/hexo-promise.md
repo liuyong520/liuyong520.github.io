@@ -1,12 +1,13 @@
 ---
 title: hexo博客主题优化
-date: 2017-08-29 10:56:51
 categories:
   - hexo
 tags:
   - hexo
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: hexo-blog-theme-optimization
+date: 2017-08-29 10:56:51
 ---
 
 在介绍博客主题优化这个话题之前，我想先介绍hexo主题的大体结构，便于后面将主题优化方面的东西。

@@ -1,12 +1,13 @@
 ---
 title: node.js环境搭建
-date: 2017-08-26 09:56:51
 categories:
   - node
 tags:
   - node
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: nodejs-environment-setup
+date: 2017-08-26 09:56:51
 ---
 
 

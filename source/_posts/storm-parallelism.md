@@ -1,12 +1,13 @@
 ---
-title: 理解storm并发度 
-date: 2019-05-10 11:46:25
-tags: 
+title: 理解storm并发度
+tags:
   - storm
 categories:
   - storm
 comment: true
 toc: true
+translate_title: understand-the-concurrency-of-storm
+date: 2019-05-10 11:46:25
 ---
 
 # 什么是storm的并发度

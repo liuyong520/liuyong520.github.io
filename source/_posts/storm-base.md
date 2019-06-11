@@ -1,12 +1,13 @@
 ---
 title: storm 基本知识
-date: 2019-05-02 22:00:40
 tags:
   - storm
 categories:
   - storm
 comment: true
 toc: true
+translate_title: storm-basics
+date: 2019-05-02 22:00:40
 ---
 # 引言
 介绍storm之前，我先抛出这两个问题：

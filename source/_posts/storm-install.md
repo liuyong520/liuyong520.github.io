@@ -1,12 +1,13 @@
 ---
 title: storm 安装使用
-date: 2019-05-02 21:37:40
 tags:
   - storm
 categories:
   - storm
 comment: true
 toc: true
+translate_title: storm-installation
+date: 2019-05-02 21:37:40
 ---
 # 环境准备
 ## zookeeper集群环境

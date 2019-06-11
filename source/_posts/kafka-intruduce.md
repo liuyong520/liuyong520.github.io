@@ -1,13 +1,14 @@
 ---
 title: kafka基本介绍
-date: 2019-04-29 10:56:51
 categories:
   - 消息队列
 tags:
   - kafka
   - linux
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: kafka-basic-introduction
+date: 2019-04-29 10:56:51
 ---
 # kafka是什么？
 Kafka是一个分布式流式存储并处理的消息队列。由scale+java语言编写，它提供了类似于JMS的特性，但是在设计实现上又完全不同，因为kafka并不是按照JMS规范实现的。kafka集群由多个broke（Kafka实例称之为broke）组成，在集群里，kafka通过消息订阅和发布将消息以topic的形式发布出来，同时，消息也是存储在topic中的，消息的发送者成为producer，消息接受者成为Consummer。

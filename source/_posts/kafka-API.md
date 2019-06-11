@@ -1,12 +1,13 @@
 ---
 title: kafka API的使用
-date: 2019-05-02 21:37:40
 tags:
   - kafka
 categories:
   - 消息队列
 comment: true
 toc: true
+translate_title: use-of-kafka-api
+date: 2019-05-02 21:37:40
 ---
 # kafka API 
 kafka Consumer提供两套Java API：高级Consumer API、和低级Consumer API。

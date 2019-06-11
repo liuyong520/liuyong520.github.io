@@ -1,13 +1,14 @@
 ---
 title: xsync 同步命令脚本和xcall远程执行命令脚本
-date: 2017-03-29 00:18:32
-tags: 
-  - shell 
+tags:
+  - shell
   - linux
-categories: 
+categories:
   - linux shell
 comment: true
 toc: true
+translate_title: xsync-synchronization-command-script-and-xcall-remote-execution
+date: 2017-03-29 00:18:32
 ---
 ## 缘由
 在linux服务器集群上，有时我们需要将数据从主服务器同步到所有的从服务器上，或者在集群里需要执行一条或者多条命令，如果们一次次的拷贝，或者每个服务器一条条的执行，会造成重复的工作。所以就写两个脚本解决这方面的问题。

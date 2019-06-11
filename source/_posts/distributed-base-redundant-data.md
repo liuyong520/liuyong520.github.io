@@ -1,12 +1,13 @@
 ---
 title: 分布式系统之冗余数据一致性
-date: 2018-05-04 13:34:47
 tags:
   - 分布式系统
 categories:
   - 分布式系统
 toc: true
 comment: true
+translate_title: redundant-data-consistency-for-distributed-systems
+date: 2018-05-04 13:34:47
 ---
 
 # 一，为什么要冗余数据

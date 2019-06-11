@@ -1,13 +1,14 @@
 ---
 title: Linux下kafka集群搭建
-date: 2019-04-29 10:56:51
 categories:
   - 消息队列
 tags:
   - kafka
   - linux
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: building-a-kafka-cluster-under-linux
+date: 2019-04-29 10:56:51
 ---
 ## 环境准备
 1. zookeeper集群环境

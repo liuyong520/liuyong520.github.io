@@ -1,10 +1,11 @@
 ---
 title: Docker 容器技术
-date: 2018-02-12 12:15:31
-tags: 
+tags:
   - docker
 toc: true
 comment: true
+translate_title: docker-container-technology
+date: 2018-02-12 12:15:31
 ---
 ## 一、Docker 简介
 

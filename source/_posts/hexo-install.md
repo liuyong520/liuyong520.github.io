@@ -1,12 +1,13 @@
 ---
 title: Hexo之环境搭建
-date: 2017-08-27 10:56:51
 categories:
   - hexo
 tags:
   - hexo
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: hexos-environment-construction
+date: 2017-08-27 10:56:51
 ---
 如果你和我一样是小白，那么恭喜你！看完这篇文章，你也可以拥有一个这样的博客啦！
 ## 前言

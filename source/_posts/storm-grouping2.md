@@ -1,12 +1,13 @@
 ---
 title: storm 的分组策略深入理解（二）
-date: 2019-05-12 20:10:40
 tags:
   - storm
 categories:
   - storm
 comment: true
 toc: true
+translate_title: storms-grouping-strategy-is-deeply-understood-2
+date: 2019-05-12 20:10:40
 ---
 上一篇博客提出了一个问题：
 >如果执行

@@ -1,12 +1,13 @@
 ---
 title: storm 的分组策略深入理解（-）
-date: 2019-05-11 20:10:40
 tags:
   - storm
 categories:
   - storm
 comment: true
 toc: true
+translate_title: storms-grouping-strategy-is-deeply-understood
+date: 2019-05-11 20:10:40
 ---
 # storm的分组策略
 - 洗牌分组(Shuffle grouping): 随机分配元组到Bolt的某个任务上，这样保证同一个Bolt的每个任务都能够得到相同数量的元组。

@@ -1,10 +1,11 @@
 ---
 title: 6张图读懂大型网站架构
-date: 2018-03-02 15:08:52
-tags: 
-    - 分布式架构
+tags:
+  - 分布式架构
 toc: true
 comment: true
+translate_title: 6-pictures-to-understand-the-large-website-architecture
+date: 2018-03-02 15:08:52
 ---
 
 

@@ -1,12 +1,13 @@
 ---
 title: 分布式系统之CAP定理
-date: 2018-04-02 16:04:25
 tags:
   - 分布式系统
 categories:
   - 分布式系统
 toc: true
 comment: true
+translate_title: cap-theorem-of-distributed-systems
+date: 2018-04-02 16:04:25
 ---
 分布式系统非常关注三个指标：
 - 数据一致性

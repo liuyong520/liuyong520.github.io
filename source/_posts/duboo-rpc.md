@@ -1,11 +1,12 @@
 ---
 title: dubbo rpc 手把手实现
-date: 2019-05-12 12:15:31
-tags: 
+tags:
   - duboo
   - rpc
 toc: true
 comment: true
+translate_title: dubbo-rpc-hand-handle
+date: 2019-05-12 12:15:31
 ---
 
 # dubbo 简单介绍

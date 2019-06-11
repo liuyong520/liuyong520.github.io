@@ -1,13 +1,14 @@
 ---
 title: Linux下zookeeper集群搭建
-date: 2019-04-29 10:56:51
 categories:
   - 分布式集群
 tags:
   - ZooKeeper
   - linux
-toc: true # 是否启用内容索引
+toc: true
 comment: true
+translate_title: zookeeper-cluster-construction-under-linux
+date: 2019-04-29 10:56:51
 ---
 ## 部署前准备
 1. 下载zookeeper的安装包

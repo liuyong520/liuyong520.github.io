@@ -1,10 +1,11 @@
 ---
 title: 跟我阅读spring源码之spring core
-date: 2017-05-20 21:03:44
 tags:
   - spring
 comment: true
 toc: true
+translate_title: read-the-spring-core-source-with-me
+date: 2017-05-20 21:03:44
 ---
 
 这么多的源代码，这么多包，往往不知道从何处开始下手阅读的这个源代码。我们在接触spring的时候，首先介绍的都是按照IOC、MVC、AOP、这种顺序介绍的。
